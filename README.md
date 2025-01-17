@@ -36,5 +36,5 @@ A simple travel website built using Node.js, Express, and MongoDB. Users can exp
    ```bash
    node app.js
    ```
-5. Open `http://localhost:3000` in your browser.(in code its 4000 so change it if 3000 isnt occupied)
+5. Open `http://localhost:3000` in your browser.(in code its 4000 so change it if 3000 is not used)
 
